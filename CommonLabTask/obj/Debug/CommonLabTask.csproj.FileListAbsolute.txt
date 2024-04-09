@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CommonLabTask\CommonLabTask\bin\Debug\CommonLabTask.exe.config
+C:\Users\HP\source\repos\CommonLabTask\CommonLabTask\bin\Debug\CommonLabTask.exe
+C:\Users\HP\source\repos\CommonLabTask\CommonLabTask\bin\Debug\CommonLabTask.pdb
+C:\Users\HP\source\repos\CommonLabTask\CommonLabTask\obj\Debug\CommonLabTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CommonLabTask\CommonLabTask\obj\Debug\CommonLabTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CommonLabTask\CommonLabTask\obj\Debug\CommonLabTask.exe
+C:\Users\HP\source\repos\CommonLabTask\CommonLabTask\obj\Debug\CommonLabTask.pdb
